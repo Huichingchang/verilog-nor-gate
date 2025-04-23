@@ -35,7 +35,7 @@ vsim work.nor_gate_tb
 add wave *
 run -all
 ```
-
 Output will include:
-1.monitor_log_nor.txt – textual simulation output
-2.nor_gate.vcd – waveform file viewable in ModelSim
+
+- `monitor_log_nor.txt` – textual simulation output  
+- `nor_gate.vcd` – waveform file viewable in ModelSim
